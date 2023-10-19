@@ -4,4 +4,4 @@
 
 ## Section 29: JMS Messaging
 
-### S29-452 Initial PRoject and Maven Dependencies
+### S29-452 Initial Project and Maven Dependencies
